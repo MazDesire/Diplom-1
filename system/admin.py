@@ -1,5 +1,6 @@
 """"
 регистрация моделей в админке
+тык-тык
 """
 from django.contrib import admin
 from .models import Client
